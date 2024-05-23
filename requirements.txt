@@ -1,0 +1,10 @@
+pandas
+plotly
+streamlit
+yfinance
+pandas-datareader
+prophet
+nltk
+stylecloud
+pillow==9.4
+Image
